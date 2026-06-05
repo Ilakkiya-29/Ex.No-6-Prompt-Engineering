@@ -12,5 +12,8 @@ Analyze the response and the Output.
 
 The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
 
+Output:
+https://drive.google.com/file/d/1xCPR6rTsRqmLLHeZ8kCI_-SrsBu02g7N/view?usp=drive_link
 
 Result: 
+The experiment was carried out successfully and the expected output was obtained accurately. Clear instructions helped in generating relevant and meaningful responses.
